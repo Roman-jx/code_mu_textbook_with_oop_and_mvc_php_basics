@@ -1,16 +1,31 @@
+<?php
 interface iCircle{
   public function getRadius();
   public function getDiameter();
 }
-interface iFigure{
+interface iFigure extends iCircle {
 
 }
-interface iTetragon{
+interface iTetragon extends iFigure {
 
 }
-class Dist implements iFigure, iCircle{
-
+class Dist implements iTetragon {
+    public function getRadius()
+    {
+        // TODO: Implement getRadius() method.
+    }
+    public function getDiameter()
+    {
+        // TODO: Implement getDiameter() method.
+    }
 }
-class Rectangle implements iFigure, iTetragon{
-
+class Rectangle implements iTetragon{
+    public function getDiameter()
+    {
+        // TODO: Implement getDiameter() method.
+    }
+    public function getRadius()
+    {
+        // TODO: Implement getRadius() method.
+    }
 }
