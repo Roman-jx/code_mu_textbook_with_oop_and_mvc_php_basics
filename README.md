@@ -1,9 +1,9 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Roman-jx/drupal_9_prj/total?style=centerme)
-![GitHub language count](https://img.shields.io/github/languages/count/Roman-jx/drupal_9_prj?style=centerme) 
-![GitHub top language](https://img.shields.io/github/languages/top/Roman-jx/drupal_9_prj?color=yellow&style=centerme) 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Roman-jx/drupal_9_prj?style=centerme)
-![GitHub forks](https://img.shields.io/github/forks/Roman-jx/drupal_9_prj?style=socialstyle=centerme)
-![GitHub Repo stars](https://img.shields.io/github/stars/Roman-jx/drupal_9_prj?style=social&style=centerme)
+![GitHub all releases](https://img.shields.io/github/downloads/Roman-jx/code_mu_textbook_with_oop_and_mvc_php_basics/total?style=centerme)
+![GitHub language count](https://img.shields.io/github/languages/count/Roman-jx/code_mu_textbook_with_oop_and_mvc_php_basics?style=centerme) 
+![GitHub top language](https://img.shields.io/github/languages/top/Roman-jx/code_mu_textbook_with_oop_and_mvc_php_basics?color=yellow&style=centerme) 
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Roman-jx/code_mu_textbook_with_oop_and_mvc_php_basics?style=centerme)
+![GitHub forks](https://img.shields.io/github/forks/Roman-jx/code_mu_textbook_with_oop_and_mvc_php_basics?style=socialstyle=centerme)
+![GitHub Repo stars](https://img.shields.io/github/stars/Roman-jx/code_mu_textbook_with_oop_and_mvc_php_basics?style=social&style=centerme)
 
 ****
 
